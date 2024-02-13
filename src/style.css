@@ -13,8 +13,8 @@ nav{
   width: auto;
   margin: 4px;
 padding: 4px;
-padding-left: 6px;
-padding-right: 6px;
+padding-left: 20px;
+padding-right: 20px;
   box-shadow: 1px 1px black;
 }
 
@@ -31,7 +31,7 @@ padding-right: 6px;
 .btn{
   width: 50px;
   padding: 3px;
-  background-color: orange;
+  background-color:red;
   border-radius: 3px;
   border: 1px solid black;
 
@@ -44,6 +44,7 @@ button:hover{
 
 .container{
   display: flex;
+  margin-top: 30px;
 }
 .box{
   display: flex;
@@ -67,14 +68,14 @@ margin: 6px;
 
 .btn-left{
 
-   padding: 4px;
+   padding: 6px;
    border-radius: 4px;
    background-color:red;
    color: white;
    font-weight: 600;
 }
 .btn-right{
-  padding: 4px;
+  padding: 6px;
   border-radius: 4px;
 }
 .para{
